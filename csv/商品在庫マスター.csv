@@ -1,0 +1,6 @@
+ProductID,ProductName,Supplier,Quantity,Price,StorageLocation
+001,Steel Plate,A Supplier,100,200.50,Warehouse A
+002,Steel Beam,B Supplier,50,150.75,Warehouse B
+003,Stainless Pipe,A Supplier,200,75.20,Warehouse A
+004,Copper Wire,C Supplier,300,25.60,Warehouse C
+005,Aluminum Sheet,D Supplier,150,35.40,Warehouse D
